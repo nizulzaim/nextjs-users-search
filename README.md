@@ -1,6 +1,6 @@
 You may test it using this following URL: 
 
-[https://nextjs-users-search.vercel.app/]
+https://nextjs-users-search.vercel.app/
 
 ## Getting Started
 
