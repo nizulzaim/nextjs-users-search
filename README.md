@@ -2,6 +2,10 @@ You may test it using this following URL:
 
 https://nextjs-users-search.vercel.app/
 
+or using custom domain:
+
+https://user-test.nael.my/
+
 ## Getting Started
 
 First, add `.env` file to root folder with following content:
